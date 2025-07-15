@@ -1,4 +1,4 @@
-# 🚀 Profil GitHub – par [TonPseudo]
+# 🚀 Bienvenue sur mon GitHub
 
 Bienvenue sur **mon espace GitHub**, où je partage mes projets et scripts dédiés au développement et à l’automatisation !
 
@@ -52,7 +52,7 @@ Tous les dépôts ici sont :
 
 ## ❤️ Crédits
 
-> Profil maintenu par **[TonPseudo]**  
+> Profil maintenu par **FreneDel**  
 > Passionné par l’automatisation et le développement, je construis des outils pratiques pour simplifier la vie des devs et sysadmins.
 
 ---
